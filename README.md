@@ -151,7 +151,8 @@ PS: If the link I provided is inaccessible, please search the App Store by "monk
 ==========
 *****
 
->>>书签版地址 请拖拽进你的书签栏(如果无法拖拽请自行复制链接地址)[Bookmark][]
+>>>书签版地址 请拖拽进你的书签栏(如果无法拖拽请至我主页查找)[Bookmark][]
+===========================================================================================================
 
 Have fun and enjoy your videos!
 
