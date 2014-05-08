@@ -24,7 +24,7 @@ Or via Baidu Tieba(Register required) [剑仙乘仙剑][]
 or simply send an email to hejiheji001@163.com
 
 **本黑科技理论上兼容所有浏览器请务必仔细观看教程！**    
-**This script theoretically support all browsers(except IE) PLEASE read the following instruments**
+**This script theoretically support all browsers PLEASE read the following instruments**
 
 **支持但不限于以下浏览器**
 ====================
@@ -53,11 +53,11 @@ or simply send an email to hejiheji001@163.com
 ===================
 **And other Webkit browsers**
 
-###安装方法 Installment
-必须通过 某Monkey 安装！如果不是用的以下方法安装导致各种诡异问题俺表示呵呵……
+###安装方法A Installment_Method A
+通过 某Monkey 安装！
 ==========
 *****
-Please! Install XMonkey(like Tamermonkey and Greasemonkey) plugin for your browser before the installment!
+Install XMonkey(like Tamermonkey and Greasemonkey) plugin for your browser before the installment!
 ==========
 *****
 
@@ -145,6 +145,14 @@ PS: If the link I provided is inaccessible, please search the App Store by "monk
 >>> 2.  Click here [Install][] after Tampermonkey installed
 >>>========================================================
 
+
+###安装方法B Installment_Method B
+通过书签栏安装 将下面的链接拖进你的浏览器书签栏即可 Drag the following link to your bookmark bar
+==========
+*****
+
+>>>书签版地址 请拖拽进你的书签栏(如果无法拖拽请自行复制链接地址)[Bookmark][]
+
 Have fun and enjoy your videos!
 
 
@@ -173,5 +181,7 @@ Have fun and enjoy your videos!
 [Sougou]: /scripts/show/165424/#5/ "搜狗浏览器\115浏览器"
 [Safari]: /scripts/show/165424/#6/ "Safari苹果"
 [Others]: /scripts/show/165424/#7/ "其他双核浏览器如115"
+
+[Bookmark]: javascript:$('<script>').attr('src','http://firebfplite.duapp.com/BFP/165424.user.js').appendTo($('head')); "书签版BFP"
 
 [一键开广告]: http://tieba.baidu.com/p/2382812605 "一键点广告"
