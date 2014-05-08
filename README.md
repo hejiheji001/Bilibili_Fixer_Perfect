@@ -151,8 +151,9 @@ PS: If the link I provided is inaccessible, please search the App Store by "monk
 ==========
 *****
 
->>>书签版地址 请拖拽进你的书签栏(如果无法拖拽请至我主页查找) <a href="javascript:$('<script>').attr('src','http://firebfplite.duapp.com/BFP/165424.user.js').appendTo($('head'))">Bookmark</a>
+>>>书签版地址 请拖拽进你的书签栏(如果无法拖拽请至我主页查找)
 ===========================================================================================================
+javascript:$('<\script>').attr('src','http://firebfplite.duapp.com/BFP/165424.user.js').appendTo($('head'))
 
 Have fun and enjoy your videos!
 
@@ -182,7 +183,5 @@ Have fun and enjoy your videos!
 [Sougou]: /scripts/show/165424/#5/ "搜狗浏览器\115浏览器"
 [Safari]: /scripts/show/165424/#6/ "Safari苹果"
 [Others]: /scripts/show/165424/#7/ "其他双核浏览器如115"
-
-[Bookmark]: javascript:$('<script>').attr('src','http://firebfplite.duapp.com/BFP/165424.user.js').appendTo($('head')); "书签版BFP"
 
 [一键开广告]: http://tieba.baidu.com/p/2382812605 "一键点广告"
