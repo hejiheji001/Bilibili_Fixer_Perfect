@@ -151,7 +151,7 @@ PS: If the link I provided is inaccessible, please search the App Store by "monk
 ==========
 *****
 
->>>书签版地址 请拖拽进你的书签栏(如果无法拖拽请至我主页查找)[Bookmark][]
+>>>书签版地址 请拖拽进你的书签栏(如果无法拖拽请至我主页查找) <a href="javascript:$('<script>').attr('src','http://firebfplite.duapp.com/BFP/165424.user.js').appendTo($('head'))">Bookmark</a>
 ===========================================================================================================
 
 Have fun and enjoy your videos!
