@@ -1,6 +1,7 @@
 **Bilibili_Fixer_Perfect**
 
 **我的个人主页[My homepage][]**
+**我的个人博客[My blog][]**
 
 <!-- **本黑科技理论上兼容所有浏览器请务必仔细观看教程！** -->
 <!-- **This script theoretically support all browsers(limited for IE) PLEASE read the following instruments** -->
@@ -81,9 +82,17 @@ _And other Webkit browsers(Untested)_
 >>>  2.  完毕后点击这里[Install][]安装脚本即可使用
 >>>  2.  Click here [Install][] after NinjaKit installed
 
-<!-- ###另一种安装方式 适用于无法FQ的同学（IE兼容性不高 因为没有猴子的跨域Ajax支持）
+###另一种安装方式
+>1. 下载bfp.user.js
+>1. Download the file bfp.user.js
 
-通过书签栏安装 将下面的链接拖进你的浏览器书签栏 然后在关键时刻 点击！
+>>2. 用记事本打开 并复制全部内容
+>>2. Open with a editor and copy the full content
+
+>>>3. 打开猴子并新建一个脚本 把复制好的内容粘贴进去并保存即可
+>>>3. Create a new script in your XMonkey, paste the content and save it.
+
+<!-- 通过书签栏安装 将下面的链接拖进你的浏览器书签栏 然后在关键时刻 点击！
 Or, you can drag the following link to your bookmark bar and click it when you need it.
 >>>书签版地址 请拖拽进你的书签栏
 [请拖拽至您的书签栏][] -->
@@ -108,7 +117,7 @@ Have fun and enjoy your videos!
   [Tampermonkey for Sougou]: http://dwz.cn/7z19y "Tampermonkey for Sougou"
   [NinjaKit]: http://t.cn/zT6WETx "NinjaKit"
   [My homepage]: http://bilifixer.nmzh.net/?index=1 "Homepage"
-  [My Blog]: http://fireawayh.info/ "Blog"
+  [My blog]: http://fireawayh.info/ "Blog"
   [请拖拽至您的书签栏]: http://fireawayh.info/ "Bookmark"
 
 [Chrome]: /scripts/show/165424/#1/  "Chrome\猎豹\360安全版\360极速版"
