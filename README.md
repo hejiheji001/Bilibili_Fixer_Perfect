@@ -1,10 +1,9 @@
-Bilibili_Fixer_Perfect
+**Bilibili_Fixer_Perfect**
 
-我的个人主页[My homepage][]
+**我的个人主页[My homepage][]**
 
-**本黑科技理论上兼容所有浏览器请务必仔细观看教程！**
-
-**This script theoretically support all browsers PLEASE read the following instruments**
+<!-- **本黑科技理论上兼容所有浏览器请务必仔细观看教程！** -->
+<!-- **This script theoretically support all browsers(limited for IE) PLEASE read the following instruments** -->
 
 **支持但不限于以下浏览器**
 **Support the following browsers, even beyond.**
@@ -54,6 +53,7 @@ Bilibili_Fixer_Perfect
 
 ###Opera欧朋
 >注：新版Opera浏览器采用了谷歌内核 请采用谷歌扩展
+
 >The latest Opera is just another webkit/blink broswer, so it is compatible with Chrome extensions.
 >> 1.  安装[Violentmonkey2 for Opera][]
 >> 1.  Install the plugin [Violentmonkey2 for Opera][]
