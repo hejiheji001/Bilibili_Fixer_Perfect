@@ -52,7 +52,8 @@ Bilibili_Fixer_Perfect
 >>  2.  完毕后点击这里[Install][]安装脚本即可使用
 >>  2.  Click here [Install][] after Violentmonkey2 installed
 
-###Opera欧朋（注意：新版Opera浏览器采用了谷歌内核 请采用谷歌扩展）
+###Opera欧朋
+>注：新版Opera浏览器采用了谷歌内核 请采用谷歌扩展
 >The latest Opera is just another webkit/blink broswer, so it is compatible with Chrome extensions.
 >> 1.  安装[Violentmonkey2 for Opera][]
 >> 1.  Install the plugin [Violentmonkey2 for Opera][]
