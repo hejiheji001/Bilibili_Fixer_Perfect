@@ -11,33 +11,25 @@ Bilibili_Fixer_Perfect
 **Supports the following browsers, even beyond.**
 ====================
 
-**Chrome**
-===================
-**UC for PC**
-===================
-**火狐FireFox**
-====================
+**Chrome(推荐 Recommended)**
+**火狐FireFox(推荐 Recommended)**
+**UC(推荐 Recommended)**
 **欧朋Opera**
-====================
 **苹果Safari**
-====================
 **猎豹Liebao**
-===================
 **遨游Maxthon**
-===================
-**搜狗Sougou**
-===================
-**360安全360Safe**
-===================
+**搜狗Sougou(不稳定 Unstable)**
+**360安全360Safe(不稳定 Unstable)**
 **360极速360Speed**
-===================
-**And other Webkit browsers**
+**And other Webkit browsers(Untested)**
 
 ###安装方法
 ###How To
 
-###Chrome\猎豹浏览器\360极速浏览器\360安全浏览器Chrome and other Webkit browsers
->>**注：360浏览器请切换到高速模式！Select the "High Speed Mode" for browsers other than Chrome**
+###Chrome\UC\猎豹\360\等类Chrome浏览器
+###Chrome and other webkit broswers
+>>注1：非Chrome浏览器请注意切换到高速模式！
+>>注2：如果链接失效 请去各自浏览器插件\扩展商城搜索安装 类Chrome浏览器可使用Chrome版扩展
 
 >>> 1.  安装Chrome版：[Tampermonkey for Chrome][]
 >>> 1.  Install the plugin [Tampermonkey for chrome][]
@@ -47,25 +39,25 @@ Bilibili_Fixer_Perfect
 ###FireFox火狐
 >>>  1.  安装[GreaseMonkey][]
 >>>  1.  Install the plugin [GreaseMonkey][]
-
 >>>  2.  完毕后点击这里[Install][]安装脚本即可使用
 >>>  2.  Click here[Install][] after GreaseMonkey installed
 
 ###Mathon遨游
 >>>  1.  安装[暴力猴2][]
 >>>  1.  Install the plugin [Violentmonkey2 for Maxthon][]
-
 >>>  2.  完毕后点击这里[Install][]安装脚本即可使用
 >>>  2.  Click here [Install][] after Violentmonkey2 installed
 
-###Opera欧朋（注意：新版Opera浏览器采用了谷歌内核 可采用谷歌扩展）
+###Opera欧朋（注意：新版Opera浏览器采用了谷歌内核 请采用谷歌扩展）
+###Notice: The latest Opera is just another webkit/blink broswer, so it is compatible with Chrome extensions.
 >>> 1.  安装[Violentmonkey2 for Opera][]
 >>> 1.  Install the plugin [Violentmonkey2 for Opera][]
 >>> 2.  完毕后点击这里[Install][]安装脚本即可使用
 >>> 2.  Click here [Install][] after Violentmonkey2 installed
 
-###搜狗浏览器\115浏览器 Sougou\115
->>**注：搜狗浏览器请使用高速模式！Select the "High Speed Mode" of your browser**
+###搜狗浏览器\115浏览器 Sougou\115(不稳定 不推荐使用 Unstable)
+>>注：搜狗浏览器请使用高速模式！
+>>Select the "High Speed Mode" of your browser**
 >>>1.  安装[Tampermonkey for Sougou][]
 >>>1.  Install the plugin [Tampermonkey for Sougou][]
 >>>2.  完毕后点击这里[Install][]安装脚本即可使用
@@ -73,26 +65,17 @@ Bilibili_Fixer_Perfect
 
 
 ###Safari苹果浏览器
+>>>注意 油猴子已经推出Safari版本 请自行搜索安装 我没有测试过 不过预计会比下面的效果更好
+>>>The beta version of TamperMonkey for Safari is released. You can try that.
 >>>  1.  安装[NinjaKit][] (下载完毕后将文件拖入浏览器安装)
 >>>  1.  Install the plugin [NinjaKit][] (Please drag the downloaded file to your browser)
 >>>  2.  完毕后点击这里[Install][]安装脚本即可使用
 >>>  2.  Click here [Install][] after NinjaKit installed
 
-###百度浏览器 等双核浏览器 请切换极速模式后使用
-###For other dual-core browsers, please DO NOT select compatibility mode and try...
-
->>> 1.  安装Chrome版：[Tampermonkey for Chrome][]
->>> 1.  Install the plugin [Tampermonkey for chrome and others except 360][]
->>> 2.  完毕后点击这里[Install][]安装脚本
->>> 2.  Click here [Install][] after Tampermonkey installed
-
-
 ###另一种安装方式 适用于无法FQ的同学（IE兼容性不高 因为没有猴子的跨域Ajax支持）
 
-通过书签栏安装 将下面的链接拖进你的浏览器书签栏即可
-Drag the following link to your bookmark bar
-*****
-
+通过书签栏安装 将下面的链接拖进你的浏览器书签栏 然后在关键时刻 点击！
+Or, you can drag the following link to your bookmark bar and click it when you need it.
 >>>书签版地址 请拖拽进你的书签栏
 [请拖拽至您的书签栏][]
 
