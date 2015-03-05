@@ -20,7 +20,7 @@ _搜狗Sougou(不稳定 Unstable)_
 
 _360安全360Safe(不稳定 Unstable)_
 
--And other Webkit browsers(Untested)-
+_And other Webkit browsers(Untested)_
 
 ###安装方法
 ###How To
