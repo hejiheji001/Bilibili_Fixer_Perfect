@@ -3,27 +3,7 @@ Bilibili_Fixer_Perfect
 
 我的个人主页[My homepage][]
 
-V8.3
-========================================
-**更新日志**
-**What's new**
-
-1.修复了已有BUG
-1.Fix bugs
-
-
-有任何问题可以发到本人微博[FireAway的新浪微博][]求关注~求交往~
-==========================================================================================
-You can contact me by message via Sina Weibo(Register required) [FireAway的新浪微博][]
-==========================================================================================
-  
-百度帖吧[剑仙乘仙剑][]
-==========================================================================================
-Or via Baidu Tieba(Register required) [剑仙乘仙剑][]
-==========================================================================================
-or simply send an email to hejiheji001@163.com
-
-**本黑科技理论上兼容所有浏览器请务必仔细观看教程！**    
+**本黑科技理论上兼容所有浏览器请务必仔细观看教程！**
 **This script theoretically support all browsers PLEASE read the following instruments**
 
 **支持但不限于以下浏览器**
@@ -53,117 +33,78 @@ or simply send an email to hejiheji001@163.com
 ===================
 **And other Webkit browsers**
 
-###安装方法A Installment_Method A
-通过 某Monkey 安装！
-==========
-*****
-Install XMonkey(like Tamermonkey and Greasemonkey) plugin for your browser before the installment!
-==========
-*****
-
-注: 如果有人安装不了插件请自行到各自浏览器扩展商店搜索monkey关键字！！
-PS: If the link I provided is inaccessible, please search the App Store by "monkey".
+###安装方法
+###How To
 
 ###Chrome\猎豹浏览器\360极速浏览器\360安全浏览器Chrome and other Webkit browsers
 >>**注：360浏览器请切换到高速模式！Select the "High Speed Mode" for browsers other than Chrome**
 
->>> 1.  安装插件Chrome版：[Tampermonkey for Chrome][]，360版[Tampermonkey for 360][]
->>>========================================================
->>> 1.  Install the plugin [Tampermonkey for chrome and others except 360][], or [Tampermonkey for 360][]
->>>========================================================
->>> 2.  完毕后点击这里[Install][]安装脚本即可使用 
->>>========================================================
+>>> 1.  安装Chrome版：[Tampermonkey for Chrome][]
+>>> 1.  Install the plugin [Tampermonkey for chrome][]
+>>> 2.  完毕后点击这里[Install][]安装脚本即可使用
 >>> 2.  Click here [Install][] after Tampermonkey installed
->>>========================================================
 
 ###FireFox火狐
->>>  1.  安装插件[GreaseMonkey][]
->>>========================================================
+>>>  1.  安装[GreaseMonkey][]
 >>>  1.  Install the plugin [GreaseMonkey][]
->>>========================================================
+
 >>>  2.  完毕后点击这里[Install][]安装脚本即可使用
->>>========================================================
 >>>  2.  Click here[Install][] after GreaseMonkey installed
->>>========================================================
 
 ###Mathon遨游
->>>  1.  安装插件[暴力猴2][]
->>>========================================================
+>>>  1.  安装[暴力猴2][]
 >>>  1.  Install the plugin [Violentmonkey2 for Maxthon][]
->>>========================================================
->>>  2.  完毕后点击这里[Install][]安装脚本即可使用
->>>========================================================  
->>>  2.  Click here [Install][] after Violentmonkey2 installed
->>>========================================================
 
-###Opera欧朋
->>> 1.  安装插件[Violentmonkey2 for Opera][]
->>>========================================================
+>>>  2.  完毕后点击这里[Install][]安装脚本即可使用
+>>>  2.  Click here [Install][] after Violentmonkey2 installed
+
+###Opera欧朋（注意：新版Opera浏览器采用了谷歌内核 可采用谷歌扩展）
+>>> 1.  安装[Violentmonkey2 for Opera][]
 >>> 1.  Install the plugin [Violentmonkey2 for Opera][]
->>>========================================================
 >>> 2.  完毕后点击这里[Install][]安装脚本即可使用
->>>========================================================
 >>> 2.  Click here [Install][] after Violentmonkey2 installed
->>>========================================================
 
 ###搜狗浏览器\115浏览器 Sougou\115
->>**注：搜狗浏览器请使用高速模式！Select the "High Speed Mode" for your browser!**
->>>1.  安装插件[Tampermonkey for Sougou][]
->>>========================================================
+>>**注：搜狗浏览器请使用高速模式！Select the "High Speed Mode" of your browser**
+>>>1.  安装[Tampermonkey for Sougou][]
 >>>1.  Install the plugin [Tampermonkey for Sougou][]
->>>========================================================
 >>>2.  完毕后点击这里[Install][]安装脚本即可使用
->>>========================================================
 >>>2.  Click here [Install][] after Tampermonkey installed
->>>========================================================
 
 
 ###Safari苹果浏览器
->>>  1.  安装插件[NinjaKit][] (下载完毕后将文件拖入浏览器安装)
->>>==================
+>>>  1.  安装[NinjaKit][] (下载完毕后将文件拖入浏览器安装)
 >>>  1.  Install the plugin [NinjaKit][] (Please drag the downloaded file to your browser)
->>>==================
 >>>  2.  完毕后点击这里[Install][]安装脚本即可使用
->>>==================   
 >>>  2.  Click here [Install][] after NinjaKit installed
->>>==================        
-
-*****
-以上均亲测有效！Script works on these mentioned browsers. Tested by myself.
-===============
-*****
 
 ###百度浏览器 等双核浏览器 请切换极速模式后使用
 ###For other dual-core browsers, please DO NOT select compatibility mode and try...
 
->>> 1.  安装插件Chrome版：[Tampermonkey for Chrome][]
->>>========================================================
+>>> 1.  安装Chrome版：[Tampermonkey for Chrome][]
 >>> 1.  Install the plugin [Tampermonkey for chrome and others except 360][]
->>>========================================================
 >>> 2.  完毕后点击这里[Install][]安装脚本
->>>========================================================
 >>> 2.  Click here [Install][] after Tampermonkey installed
->>>========================================================
 
 
-###安装方法B Installment_Method B
-通过书签栏安装 将下面的链接拖进你的浏览器书签栏即可 Drag the following link to your bookmark bar
-==========
+###另一种安装方式 适用于无法FQ的同学（IE兼容性不高 因为没有猴子的跨域Ajax支持）
+
+通过书签栏安装 将下面的链接拖进你的浏览器书签栏即可
+Drag the following link to your bookmark bar
 *****
 
->>>书签版地址 请拖拽进你的书签栏(如果无法拖拽请至我主页查找)
-===========================================================================================================
-javascript:$('<\script>').attr('src','http://firebfplite.duapp.com/BFP/165424.user.js').appendTo($('head'))
+>>>书签版地址 请拖拽进你的书签栏
+[请拖拽至您的书签栏][]
 
 Have fun and enjoy your videos!
 
 
 ** - ( ゜- ゜)つロ 乾杯~ - bilibili.tv**
-=======================================================    
+=======================================================
 
   [FireAway的新浪微博]:http://weibo.com/fireaway "FireAway~"
   [剑仙乘仙剑]: http://dwz.cn/7xu6E "不粉我的人都会吃面包"
-  [Install]: http://userscripts.org/scripts/source/165424.user.js "请点这里安装！"
+  [Install]: https://greasyfork.org/zh-CN/scripts/663-bilibili-fixer-perfect "请点这里安装！"
   [Tampermonkey for Chrome]: http://dwz.cn/7xsFz "Tampermonkey for Chrome"
   [Tampermonkey for chrome and others except 360]: http://dwz.cn/7xsFz "Tampermonkey Chrome"
   [Tampermonkey 打开的页面中肯定有个可以装 For 360浏览器]: http://t.cn/zTNqAwR "360可用二者其中之一"
@@ -174,7 +115,9 @@ Have fun and enjoy your videos!
   [Violentmonkey2 for Opera]: http://dwz.cn/7xsHY "Violentmonkey for Opera"
   [Tampermonkey for Sougou]: http://dwz.cn/7z19y "Tampermonkey for Sougou"
   [NinjaKit]: http://t.cn/zT6WETx "NinjaKit"
-  [My homepage]: http://firebfplite.duapp.com/?index=1# "Homepage"
+  [My homepage]: http://bilifixer.nmzh.net/?index=1 "Homepage"
+  [My Blog]: http://fireawayh.info/ "Blog"
+  [请拖拽至您的书签栏]: http://fireawayh.info/ "Bookmark"
 
 [Chrome]: /scripts/show/165424/#1/  "Chrome\猎豹\360安全版\360极速版"
 [FireFox]: /scripts/show/165424/#2/ "FireFox火狐"
