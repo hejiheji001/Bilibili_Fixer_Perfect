@@ -34,27 +34,31 @@ Bilibili_Fixer_Perfect
 
 >> 1.  安装Chrome版：[Tampermonkey for Chrome][]
 >> 1.  Install the plugin [Tampermonkey for chrome][]
+
 >>> 2.  完毕后点击这里[Install][]安装脚本即可使用
 >>> 2.  Click here [Install][] after Tampermonkey installed
 
 ###FireFox火狐
 >  1.  安装[GreaseMonkey][]
 >  1.  Install the plugin [GreaseMonkey][]
+
 >>  2.  完毕后点击这里[Install][]安装脚本即可使用
 >>  2.  Click here[Install][] after GreaseMonkey installed
 
 ###Mathon遨游
 >  1.  安装[暴力猴2][]
 >  1.  Install the plugin [Violentmonkey2 for Maxthon][]
+
 >>  2.  完毕后点击这里[Install][]安装脚本即可使用
 >>  2.  Click here [Install][] after Violentmonkey2 installed
 
 ###Opera欧朋（注意：新版Opera浏览器采用了谷歌内核 请采用谷歌扩展）
-###Notice: The latest Opera is just another webkit/blink broswer, so it is compatible with Chrome extensions.
-> 1.  安装[Violentmonkey2 for Opera][]
-> 1.  Install the plugin [Violentmonkey2 for Opera][]
->> 2.  完毕后点击这里[Install][]安装脚本即可使用
->> 2.  Click here [Install][] after Violentmonkey2 installed
+>The latest Opera is just another webkit/blink broswer, so it is compatible with Chrome extensions.
+>> 1.  安装[Violentmonkey2 for Opera][]
+>> 1.  Install the plugin [Violentmonkey2 for Opera][]
+
+>>> 2.  完毕后点击这里[Install][]安装脚本即可使用
+>>> 2.  Click here [Install][] after Violentmonkey2 installed
 
 ###搜狗浏览器\115浏览器 Sougou\115(不稳定 不推荐使用 Unstable)
 >注：搜狗浏览器请使用高速模式！
@@ -62,6 +66,7 @@ Bilibili_Fixer_Perfect
 >Select the "High Speed Mode" of your browser**
 >>1.  安装[Tampermonkey for Sougou][]
 >>1.  Install the plugin [Tampermonkey for Sougou][]
+
 >>>2.  完毕后点击这里[Install][]安装脚本即可使用
 >>>2.  Click here [Install][] after Tampermonkey installed
 
@@ -71,15 +76,16 @@ Bilibili_Fixer_Perfect
 >The beta version of TamperMonkey for Safari is released. You can try that.
 >>  1.  安装[NinjaKit][] (下载完毕后将文件拖入浏览器安装)
 >>  1.  Install the plugin [NinjaKit][] (Please drag the downloaded file to your browser)
+
 >>>  2.  完毕后点击这里[Install][]安装脚本即可使用
 >>>  2.  Click here [Install][] after NinjaKit installed
 
-###另一种安装方式 适用于无法FQ的同学（IE兼容性不高 因为没有猴子的跨域Ajax支持）
+<!-- ###另一种安装方式 适用于无法FQ的同学（IE兼容性不高 因为没有猴子的跨域Ajax支持）
 
 通过书签栏安装 将下面的链接拖进你的浏览器书签栏 然后在关键时刻 点击！
 Or, you can drag the following link to your bookmark bar and click it when you need it.
 >>>书签版地址 请拖拽进你的书签栏
-[请拖拽至您的书签栏][]
+[请拖拽至您的书签栏][] -->
 
 Have fun and enjoy your videos!
 
