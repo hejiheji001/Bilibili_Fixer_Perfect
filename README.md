@@ -28,9 +28,11 @@ _And other Webkit browsers(Untested)_
 
 ###Chrome\UC\猎豹\360\等类Chrome浏览器
 ###Chrome and other webkit broswers
->注1：非Chrome浏览器请注意切换到高速模式！
+>注1: 非Chrome浏览器请注意切换到高速模式！
 
->注2：如果链接失效 请去各自浏览器插件\扩展商城搜索安装 类Chrome浏览器可使用Chrome版扩展
+>注2: 如果链接失效 请去各自浏览器插件\扩展商城搜索安装
+
+>注3: 类Chrome浏览器可使用Chrome版扩展
 
 >> 1.  安装Chrome版：[Tampermonkey for Chrome][]
 >> 1.  Install the plugin [Tampermonkey for chrome][]
@@ -53,7 +55,7 @@ _And other Webkit browsers(Untested)_
 >>  2.  Click here [Install][] after Violentmonkey2 installed
 
 ###Opera欧朋
->注：新版Opera浏览器采用了谷歌内核 请采用谷歌扩展
+>新版Opera浏览器采用了谷歌内核 请采用谷歌扩展
 
 >The latest Opera is just another webkit/blink broswer, so it is compatible with Chrome extensions.
 >> 1.  安装[Violentmonkey2 for Opera][]
@@ -63,7 +65,7 @@ _And other Webkit browsers(Untested)_
 >>> 2.  Click here [Install][] after Violentmonkey2 installed
 
 ###搜狗浏览器\115浏览器 Sougou\115(不稳定 不推荐使用 Unstable)
->注：搜狗浏览器请使用高速模式！
+>搜狗浏览器请使用高速模式！
 
 >Select the "High Speed Mode" of your browser**
 >>1.  安装[Tampermonkey for Sougou][]
@@ -75,6 +77,7 @@ _And other Webkit browsers(Untested)_
 
 ###Safari苹果浏览器
 >注意 油猴子已经推出Safari版本 请自行搜索安装 我没有测试过 不过预计会比下面的效果更好
+
 >The beta version of TamperMonkey for Safari is released. You can try that.
 >>  1.  安装[NinjaKit][] (下载完毕后将文件拖入浏览器安装)
 >>  1.  Install the plugin [NinjaKit][] (Please drag the downloaded file to your browser)
